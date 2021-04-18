@@ -1,0 +1,8 @@
+﻿.Panel
+{
+    border-radius: 8px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Verdana;
+    text-transform: none;
+}

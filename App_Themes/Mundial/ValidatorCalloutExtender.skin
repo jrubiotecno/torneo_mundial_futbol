@@ -1,0 +1,3 @@
+﻿<ajax:ValidatorCalloutExtender runat="server" CssClass="customCalloutStyle" 
+	WarningIconImageUrl="images/001_111.png" CloseImageUrl="images/001_051.png">
+</ajax:ValidatorCalloutExtender>

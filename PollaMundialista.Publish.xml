@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\cll28psql7\J$\GHTV" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="UserControls/Admin/ActualizarPuntosUsuario.ascx" publishTime="05/20/2014 12:12:08" />
+    <file relUrl="Images/Logo.png" publishTime="05/16/2014 13:53:25" />
+    <file relUrl="UserControls/Admin/Pais.ascx" publishTime="05/20/2014 18:12:26" />
+    <file relUrl="Terminos.aspx" publishTime="05/26/2014 14:32:54" />
+    <file relUrl="Global.asax" publishTime="05/18/2014 23:39:44" />
+    <file relUrl="App_Themes/Mundial/TextBox.css" publishTime="02/21/2014 17:50:47" />
+    <file relUrl="App_Themes/Mundial/ValidatorCalloutExtender.skin" publishTime="05/20/2014 10:22:15" />
+    <file relUrl="App_Themes/Mundial/Button.skin" publishTime="05/19/2014 14:53:34" />
+    <file relUrl="UserControls/Admin/GrupoPais.ascx" publishTime="05/20/2014 18:12:26" />
+    <file relUrl="Images/bot_enviar_home.jpg" publishTime="08/30/2010 11:52:04" />
+    <file relUrl="App_Themes/Mundial/Button.css" publishTime="02/22/2014 00:04:42" />
+    <file relUrl="Images/header.jpg" publishTime="05/20/2014 14:43:28" />
+    <file relUrl="App_Themes/Mundial/DropDownList.skin" publishTime="02/18/2013 09:43:34" />
+    <file relUrl="UserControls/CambiarContraseña.ascx" publishTime="05/23/2014 12:19:11" />
+    <file relUrl="Contactenos.aspx" publishTime="05/23/2014 22:12:01" />
+    <file relUrl="UserControls/Admin/Fase.ascx" publishTime="05/19/2014 23:36:50" />
+    <file relUrl="Partidos.aspx" publishTime="05/23/2014 14:39:14" />
+    <file relUrl="UserControls/ActualizarDatos.ascx" publishTime="05/26/2014 12:04:44" />
+    <file relUrl="Images/ico_ok.gif" publishTime="02/18/2013 09:44:03" />
+    <file relUrl="Site.Master" publishTime="05/26/2014 11:07:44" />
+    <file relUrl="Registro.aspx" publishTime="05/26/2014 12:01:51" />
+    <file relUrl="App_Themes/Mundial/Panel.css" publishTime="02/21/2014 19:16:43" />
+    <file relUrl="Images/favico.jpg" publishTime="05/20/2014 14:52:38" />
+    <file relUrl="App_Themes/Mundial/DropDownList.css" publishTime="02/21/2014 17:56:04" />
+    <file relUrl="App_Themes/Mundial/images/button.png" publishTime="02/18/2013 09:43:34" />
+    <file relUrl="UserControls/Admin/Usuarios.ascx" publishTime="05/21/2014 13:32:10" />
+    <file relUrl="bin/PollaMundialista.dll" publishTime="06/03/2014 17:35:33" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="02/18/2013 09:45:12" />
+    <file relUrl="Images/list-icon.png" publishTime="05/20/2014 21:30:57" />
+    <file relUrl="Default.aspx" publishTime="05/26/2014 14:12:54" />
+    <file relUrl="bin/PollaMundialista.pdb" publishTime="06/03/2014 17:35:33" />
+    <file relUrl="App_Data/RecordarContrasena.html" publishTime="05/22/2014 16:53:15" />
+    <file relUrl="Grupos.aspx" publishTime="05/23/2014 14:41:37" />
+    <file relUrl="Images/bullet_home.jpg" publishTime="08/30/2010 11:51:52" />
+    <file relUrl="App_Themes/Mundial/GridView.skin" publishTime="05/20/2014 19:57:54" />
+    <file relUrl="App_Themes/Mundial/Panel.skin" publishTime="02/18/2013 09:43:34" />
+    <file relUrl="Images/ico_eliminar.gif" publishTime="02/18/2013 09:44:03" />
+    <file relUrl="UserControls/Admin/Partido.ascx" publishTime="05/23/2014 15:27:22" />
+    <file relUrl="App_Themes/Mundial/ValidatorCalloutExtender.css" publishTime="02/21/2014 19:23:22" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/18/2014 23:39:44" />
+    <file relUrl="AdminDefault.aspx" publishTime="05/23/2014 12:18:38" />
+    <file relUrl="UserControls/Admin/Grupo.ascx" publishTime="05/20/2014 09:35:37" />
+    <file relUrl="Images/ico_editar.gif" publishTime="02/18/2013 09:44:03" />
+    <file relUrl="Login.aspx" publishTime="05/23/2014 14:42:12" />
+    <file relUrl="MisMarcadores.aspx" publishTime="05/26/2014 14:13:18" />
+    <file relUrl="Web.config" publishTime="05/26/2014 10:15:14" />
+    <file relUrl="App_Themes/Mundial/images/001_111.png" publishTime="02/18/2013 09:43:34" />
+    <file relUrl="App_Themes/Mundial/images/001_051.png" publishTime="02/18/2013 09:43:34" />
+    <file relUrl="OlvidoPassword.aspx" publishTime="05/23/2014 09:12:10" />
+    <file relUrl="App_Themes/Mundial/TextBox.skin" publishTime="02/18/2013 09:43:34" />
+    <file relUrl="Styles/Site.css" publishTime="05/23/2014 11:20:48" />
+    <file relUrl="UserControls/Admin/ActualizarEstadisticasPartidos.ascx" publishTime="05/20/2014 12:07:36" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/18/2014 23:39:44" />
+    <file relUrl="App_Data/Contactenos.html" publishTime="07/15/2010 11:49:16" />
+    <file relUrl="Images/ico_mas.gif" publishTime="02/18/2013 09:44:03" />
+    <file relUrl="UserControls/Admin/Estadio.ascx" publishTime="05/19/2014 23:37:06" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/18/2014 23:39:44" />
+  </publishProfile>
+</publishData>

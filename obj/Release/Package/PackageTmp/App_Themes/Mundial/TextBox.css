@@ -1,0 +1,15 @@
+﻿.texto
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #999999;
+    color: #666666;
+    font-family: Verdana;
+    font-size: 11px;
+    height: 16px;
+    border-radius: 3px;
+}
+.texto:disabled
+{
+    background: #ddd;
+    color:GrayText;
+}

@@ -1,0 +1,28 @@
+﻿.ComboBox
+{
+    text-transform: capitalize;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #999999;
+    color: #666666;
+    font-family: Verdana;
+    font-size: 10px;
+    height: 20px; 
+    margin-left:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-radius: 3px;
+    cursor:pointer;
+        
+    /*font:10px Arial,Helvetica,sans-serif; 	
+    text-transform:uppercase; 	
+    color:#304E94; 	
+    background-color:#E8E8F3; 	
+    margin-left:2px; 	
+    margin-right:2px; 	
+    border:1px solid #304E94; */
+}
+.ComboBox:disabled
+{
+    background: #ddd;
+    color:GrayText;
+}

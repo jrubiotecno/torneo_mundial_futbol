@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="PollaMundialista.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Polla Mundialista - Brasil 2014</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="Images/favico.jpg">
+</head>
+<body>
+    <form runat="server">
+    <ajax:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+    </ajax:ToolkitScriptManager>
+    <div class="page">
+        <div class="header">
+            <div class="title">
+            </div>
+            <div class="loginDisplay">
+            </div>
+            <div class="clear hideSkiplink">
+                <div id='cssmenu'>
+                    <ul>
+                        <li><a href="Login.aspx"><span>
+                            <asp:Label ID="lblLogin" runat="server" Text="Login/Registrar"></asp:Label></span></a></li>
+                        <li><a href="Default.aspx"><span>Inicio</span></a></li>
+                        <li><a href="Grupos.aspx"><span>Grupos</span></a> </li>
+                        <li><a href="Partidos.aspx"><span>Partidos y Resultados</span></a></li>
+                        <li><a href="MisMarcadores.aspx"><span>Mis Marcadores</span></a></li>
+                        <li><a href="Terminos.aspx"><span>Mécanica</span></a></li>
+                        <li class='last'><a href="Contactenos.aspx"><span>Contáctenos</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="main">
+            <br />
+            <br />
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        <a>GHTV - Polla Mundialista Brasil 2014.</a>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\esierrar\Documents\EFRAIN SIERRA RODRIGUEZ\WORK_ESR\trunk\PollaMundialista\bin\PollaMundialista.dll
+C:\Users\esierrar\Documents\EFRAIN SIERRA RODRIGUEZ\WORK_ESR\trunk\PollaMundialista\bin\PollaMundialista.pdb
+C:\Users\esierrar\Documents\EFRAIN SIERRA RODRIGUEZ\WORK_ESR\trunk\PollaMundialista\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esierrar\Documents\EFRAIN SIERRA RODRIGUEZ\WORK_ESR\trunk\PollaMundialista\obj\Release\PollaMundialista.dll
+C:\Users\esierrar\Documents\EFRAIN SIERRA RODRIGUEZ\WORK_ESR\trunk\PollaMundialista\obj\Release\PollaMundialista.pdb
+C:\inetpub\wwwroot\Mundial2014\bin\PollaMundialista.dll
+C:\inetpub\wwwroot\Mundial2014\bin\PollaMundialista.pdb
+C:\inetpub\wwwroot\Mundial2014\obj\Release\PollaMundialista.dll
+C:\inetpub\wwwroot\Mundial2014\obj\Release\PollaMundialista.pdb
+C:\inetpub\wwwroot\Mundial2014\obj\Release\PollaMundialista.csprojResolveAssemblyReference.cache
